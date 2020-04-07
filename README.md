@@ -1,14 +1,13 @@
 # Environmental Informatics
 
-## Assignment 10 - Descriptive Statistics and Environmental Metrics
+## Assignment 11 - Presentation Graphics
 
 ### Lab Objectives
 
 On completion of this lab, students will be able to:
 
-1. Calculate descriptive statistics for a dataset;
-3. Calculate streamflow metrics further describing the distribution of daily streamflow and that are correlated with aquatic ecosystem health; and
-3. Generate summary tables that put the streamflow data into context using statistics and metrics.
+1. Generate summary figures to present analysis results for a dataset; and
+2. Follow guidelines to make figures that are ready for an oral presentation.
 
 ### Reading Assignment
 
@@ -21,6 +20,11 @@ For environmental metrics, please read these two papers by Derek Booth and two o
 - Konrad, C.P. and Booth, D.B. (2005) Hydrologic Changes in Urban Streams and Their Ecological Significance. American Fisheries Society Symposium, 47, 157-177.
 
 - McBride, M. and Booth, D.B. (2005), URBAN IMPACTS ON PHYSICAL STREAM CONDITION: EFFECTS OF SPATIAL SCALE, CONNECTIVITY, AND LONGITUDINAL TRENDS1. JAWRA Journal of the American Water Resources Association, 41: 565-580. [doi:10.1111/j.1752-1688.2005.tb03755.x](doi:10.1111/j.1752-1688.2005.tb03755.x)
+
+- [Presentation style guide used by AGU (and other professional societies) in 2019](http://www.projectionnet.com/Styleguide/presentationstyleguide.aspx)
+
+- 
+
 
 ### The Lab Assignment
 
