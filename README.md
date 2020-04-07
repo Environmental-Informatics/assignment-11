@@ -11,15 +11,7 @@ On completion of this lab, students will be able to:
 
 ### Reading Assignment
 
-For descriptive statistics, you can start with any basic statistics textbook, as they will all discuss the concepts of measuring the central tendency and variability of a dataset.  For a brief review of the concepts in the context of data science (or informatics), check out:
-
-- [Introduction to descriptive statistics](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
-
-For environmental metrics, please read these two papers by Derek Booth and two of his students (posted to Blackboard under Reading Materials -> Analysis Metrics).  Both seek to identify environmental metrics with predictive ability for water quality.  The first uses metrics to quantify the most ecologically significant changes in daily streamflow characteristics, while the second quantifies observed differences in land use in the upstream area near sampling sites.
-
-- Konrad, C.P. and Booth, D.B. (2005) Hydrologic Changes in Urban Streams and Their Ecological Significance. American Fisheries Society Symposium, 47, 157-177.
-
-- McBride, M. and Booth, D.B. (2005), URBAN IMPACTS ON PHYSICAL STREAM CONDITION: EFFECTS OF SPATIAL SCALE, CONNECTIVITY, AND LONGITUDINAL TRENDS1. JAWRA Journal of the American Water Resources Association, 41: 565-580. [doi:10.1111/j.1752-1688.2005.tb03755.x](doi:10.1111/j.1752-1688.2005.tb03755.x)
+There are 
 
 - [Presentation style guide used by AGU (and other professional societies) in 2019](http://www.projectionnet.com/Styleguide/presentationstyleguide.aspx)
 
