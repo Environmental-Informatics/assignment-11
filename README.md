@@ -11,18 +11,15 @@ On completion of this lab, students will be able to:
 
 ### Reading Assignment
 
-There are 
+Review the reading materials on Blackbaord under the links for Reading Materials -> Presentation Graphics.
 
-- [Presentation style guide used by AGU (and other professional societies) in 2019](http://www.projectionnet.com/Styleguide/presentationstyleguide.aspx)
-
-- 
-
+For this assignment you will need to generate figures taht comply with the [Presentation style guide used by AGU (and other professional societies) in 2019](http://www.projectionnet.com/Styleguide/presentationstyleguide.aspx).  
 
 ### The Lab Assignment
 
-This week’s assignment is to calculate basic descriptive statistics and environmental metrics for two rivers with similar climate and drainage areas.  Do this by reading the two files into your Python code, checking for gross errors, clipping the two datasets to a consistent time period, and calculating the prescribed statistics and metrics.  
+This week’s assignment is revisit the basic descriptive statistics and environmental metrics you calculated in Assignment 10, and write a program that will read in your summary metric tables from the assignment, and generate figures for a oral presentation highlighting the differences between the two rivers.    
 
-1. Use the files **TippecanoeRiver_Discharge_03331500_19431001-20200315.txt** and **WildcatCreek_Discharge_03335000_19540601-20200315.txt** provided with this repository.
+1. The files **TippecanoeRiver_Discharge_03331500_19431001-20200315.txt** and **WildcatCreek_Discharge_03335000_19540601-20200315.txt** are provided again with this repository so taht you can access the USGS header information as needed to inform your presentation.
 
    - These files contain daily discharge in cubic feet per second (cfs) for a single USGS gaging station.
    - Data file is white space delimited.
